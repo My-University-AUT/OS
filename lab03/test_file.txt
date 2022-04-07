@@ -1,4 +1,0 @@
-hello man
-how are you
-   this is test line        
-this script is executed in linux
